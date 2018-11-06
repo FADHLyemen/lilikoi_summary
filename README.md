@@ -24,6 +24,7 @@ Figure 1: The workflow of Lilikoi package. Lilikoi composed of four modules: Fea
 3. __[mybinder](https://mybinder.org/v2/gh/FADHLyemen/lilikoi_Fadhl/master)__
 4. __[Docker](https://hub.docker.com/r/fadhlyemen/lilikoi/)__https://hub.docker.com/r/fadhlyemen/lilikoi/
 5. __[CRAN](https://cran.r-project.org/web/packages/lilikoi/index.html)__ https://cran.r-project.org/web/packages/lilikoi/index.html
+6. __[Github](https://github.com/lanagarmire/lilikoi)__ https://github.com/lanagarmire/lilikoi
 
 ![Image of Block Diagram](http://fadhl-alakwa.weebly.com/uploads/5/3/6/4/5364958/fig2-1_orig.png)
 
